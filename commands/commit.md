@@ -65,3 +65,9 @@ Different concerns | Mixed types | File patterns | Large changes
 - Only commit staged files if any exist
 - Analyze diff for splitting suggestions
 - **NEVER add Claude signature to commits**
+
+## Important Notes
+
+Don't put any footer like:
+`🤖 Generated with [Claude Code](https://claude.ai/code)
+Co-Authored-By: Claude <noreply@anthropic.com>"`
